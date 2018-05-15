@@ -1,0 +1,172 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro 4000 (ID=0x6dd)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+    Driver:   8.17.12.9703
+Begin MonoManager ReloadAssembly
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  3.171 seconds
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: L:\My Drive\SpatioScholar\Spatio Scholar_04132018\TestApp_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x1200 60Hz; virtual: 3200x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.496249 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: ea88 -> priority: 1 
+  Thread -> id: e1c0 -> priority: 1 
+postTime: 5/5/2017 10:47:54 AM lastUpdate: 1/1/0001 12:00:00 AM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+postTime: 5/5/2017 10:53:32 AM lastUpdate: 1/1/0001 12:00:00 AM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+postTime: 5/5/2017 10:47:54 AM lastUpdate: 1/1/0001 12:00:00 AM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+postTime: 5/5/2017 10:53:32 AM lastUpdate: 1/1/0001 12:00:00 AM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Test
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cursor Lock is: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"2017-05-05 10:53:32"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
